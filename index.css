@@ -1,0 +1,25 @@
+.iconarrow {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: aqua;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    z-index: 100;
+
+}
+.relative {
+    position: relative;
+}
+.relative a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
